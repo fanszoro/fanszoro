@@ -16,6 +16,6 @@ Full-stack engineer focused on **Design Systems (Apple HIG)**, **Modern Web Arch
 
 #### Projects
 
-- **[md3.cn](https://md3.cn)** — Apple HIG design system & isomorphic publishing monorepo built with Svelte 5 Runes & SvelteKit 3.
+- **[md3.cn](https://www.md3.cn)** — Apple HIG design system & isomorphic publishing monorepo built with Svelte 5 Runes & SvelteKit 3.
 - **[music-tagger](https://github.com/fanszoro/music-tagger)** — Self-hosted music metadata scraper & tag management hub (`6.7k+` Docker pulls) · [`Docs`](https://fanszoro.github.io/music-tagger/)
 - **[markissue](https://github.com/fanszoro/markissue)** — Zero-database, Markdown-backed agile issue tracker for AI-native workflows · [`Demo`](https://bf3tzdtgrlfvvhjche5nuf.streamlit.app/)
